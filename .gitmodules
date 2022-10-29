@@ -1,0 +1,3 @@
+[submodule "rCore-kernel"]
+	path = rCore-kernel
+	url = https://github.com/codychau/rCore-kernel
